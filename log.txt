@@ -1,0 +1,54 @@
+[25/07/2024 2:01:17 PM] [Debug] Attempting to register user: jane@example.com
+[25/07/2024 2:01:17 PM] [Info] User registered successfully: jane@example.com
+[25/07/2024 2:01:17 PM] [Info] Sending email to jane@example.com with subject: Welcome!
+[25/07/2024 2:01:17 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:01:17 PM] [Info] Placing order for user jane@example.com, product PROD-002
+[25/07/2024 2:01:17 PM] [Info] Order placed successfully for user jane@example.com
+[25/07/2024 2:01:17 PM] [Info] Sending email to jane@example.com with subject: Order Confirmation
+[25/07/2024 2:01:17 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:07:28 PM] [Info] User registered successfully: john@example.com
+[25/07/2024 2:07:28 PM] [Info] Placing order for user john@example.com, product PROD-001
+[25/07/2024 2:07:28 PM] [Info] Order placed successfully for user john@example.com
+[25/07/2024 2:07:28 PM] [Debug] Attempting to register user: jane@example.com
+[25/07/2024 2:07:28 PM] [Info] User registered successfully: jane@example.com
+[25/07/2024 2:07:28 PM] [Info] Sending email to jane@example.com with subject: Welcome!
+[25/07/2024 2:07:28 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:07:28 PM] [Info] Placing order for user jane@example.com, product PROD-002
+[25/07/2024 2:07:28 PM] [Info] Order placed successfully for user jane@example.com
+[25/07/2024 2:07:28 PM] [Info] Sending email to jane@example.com with subject: Order Confirmation
+[25/07/2024 2:07:28 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:07:28 PM] [Info] Transient Service Id: 2438ed2a-a97e-4414-871d-d4421df483af
+[25/07/2024 2:07:28 PM] [Info] Transient Service Id: 0df0dd81-b7e5-4cf2-97ac-8cebab34a014
+[25/07/2024 2:07:28 PM] [Info] Scoped Service Id: d3d499d1-9f9e-4e10-b449-e4c2751c2e45
+[25/07/2024 2:07:28 PM] [Info] Scoped Service Id: d3d499d1-9f9e-4e10-b449-e4c2751c2e45
+[25/07/2024 2:07:28 PM] [Info] Singleton Service Id: 63872d8c-6e14-48d4-8bec-98d268748717
+[25/07/2024 2:07:28 PM] [Info] Singleton Service Id: 63872d8c-6e14-48d4-8bec-98d268748717
+[25/07/2024 2:07:28 PM] [Info] Transient Service Id: 5b7d32c1-5c0a-4355-bd55-0604640dbd17
+[25/07/2024 2:07:28 PM] [Info] Transient Service Id: 6884a059-5883-4613-b2d2-ef484e391e61
+[25/07/2024 2:07:28 PM] [Info] Scoped Service Id: 8157ff82-65f4-4a83-9974-fcf0cd45552b
+[25/07/2024 2:07:28 PM] [Info] Scoped Service Id: 8157ff82-65f4-4a83-9974-fcf0cd45552b
+[25/07/2024 2:07:28 PM] [Info] Singleton Service Id: 63872d8c-6e14-48d4-8bec-98d268748717
+[25/07/2024 2:07:28 PM] [Info] Singleton Service Id: 63872d8c-6e14-48d4-8bec-98d268748717
+[25/07/2024 2:07:40 PM] [Info] User registered successfully: john@example.com
+[25/07/2024 2:07:40 PM] [Info] Placing order for user john@example.com, product PROD-001
+[25/07/2024 2:07:40 PM] [Info] Order placed successfully for user john@example.com
+[25/07/2024 2:07:40 PM] [Debug] Attempting to register user: jane@example.com
+[25/07/2024 2:07:40 PM] [Info] User registered successfully: jane@example.com
+[25/07/2024 2:07:40 PM] [Info] Sending email to jane@example.com with subject: Welcome!
+[25/07/2024 2:07:40 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:07:40 PM] [Info] Placing order for user jane@example.com, product PROD-002
+[25/07/2024 2:07:40 PM] [Info] Order placed successfully for user jane@example.com
+[25/07/2024 2:07:40 PM] [Info] Sending email to jane@example.com with subject: Order Confirmation
+[25/07/2024 2:07:40 PM] [Info] Email sent successfully to jane@example.com
+[25/07/2024 2:07:40 PM] [Info] Transient Service Id: 700df92e-a37a-430c-8713-bc7e1767ad30
+[25/07/2024 2:07:40 PM] [Info] Transient Service Id: 10184de0-29b2-4bdf-8be5-236c0aa88767
+[25/07/2024 2:07:40 PM] [Info] Scoped Service Id: 8fac56be-14dc-448f-9a36-eedaa29ab81e
+[25/07/2024 2:07:40 PM] [Info] Scoped Service Id: 8fac56be-14dc-448f-9a36-eedaa29ab81e
+[25/07/2024 2:07:40 PM] [Info] Singleton Service Id: af9a056c-14c3-4154-b819-6164ea85f0b5
+[25/07/2024 2:07:40 PM] [Info] Singleton Service Id: af9a056c-14c3-4154-b819-6164ea85f0b5
+[25/07/2024 2:07:40 PM] [Info] Transient Service Id: b158473d-5620-4dde-886e-c7457337e000
+[25/07/2024 2:07:40 PM] [Info] Transient Service Id: 882cd654-eaaa-4d57-939c-1b4e2cd29c6d
+[25/07/2024 2:07:40 PM] [Info] Scoped Service Id: 42ce940d-f7ed-4d43-b933-7d41e396992c
+[25/07/2024 2:07:40 PM] [Info] Scoped Service Id: 42ce940d-f7ed-4d43-b933-7d41e396992c
+[25/07/2024 2:07:40 PM] [Info] Singleton Service Id: af9a056c-14c3-4154-b819-6164ea85f0b5
+[25/07/2024 2:07:40 PM] [Info] Singleton Service Id: af9a056c-14c3-4154-b819-6164ea85f0b5
